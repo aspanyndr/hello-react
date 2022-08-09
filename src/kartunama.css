@@ -1,0 +1,55 @@
+.body-kartu-nama {
+    margin: auto;
+    height: 300px;
+    width: 500px;
+    text-align: center;
+    background-color: burlywood ;
+    padding: 20px;
+    border-radius: 10%;
+    
+    
+  }
+  .pojok_atas {
+    color : black;
+    text-align: center;
+    font-style:italic;
+    font-size:11px;
+    line-height: 90%;
+    
+  }
+  .pojok_atas img{
+  float:centre;
+  height:30px;
+  
+  }
+  
+  #nama{
+    color : black;
+    font-size:25px;
+  }
+  #title{
+    color : black;
+    font-size:13px;
+    font-style:oblique;
+  }
+  #link{
+    text-align: right;
+    color:black;
+    font-style: oblique;
+  }
+  #nomor{
+  color : black;
+  font-size:10px;
+  font-style: oblique;
+  }
+  #email{
+  color : black;
+  font-size:10px;
+  font-style: oblique;
+  }
+  img{
+    height : 100px;
+    border-radius: 150px;
+  }
+  
+  
